@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 1,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 2,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 3,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 4,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 5,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 6,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 7,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    },
+    {
+      "id": 8,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": "15000",
+      "shareprice": "20000"
+    }
+  ],
+  "cart": []
+}

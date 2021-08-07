@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": 25000,
+      "avalible": 4,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 5
+    },
+    {
+      "id": 1,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": 25000,
+      "shareprice": "20000",
+      "avalible": 65,
+      "bestSale": true,
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 4
+    },
+    {
+      "id": 2,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "avalible": 0,
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 3
+    },
+    {
+      "id": 3,
+      "title": "Chromebook Tab 100",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "avalible": 10,
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 0
+    },
+    {
+      "id": 4,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "avalible": 20,
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 1
+    },
+    {
+      "id": 5,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "avalible": 6,
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 4
+    },
+    {
+      "id": 6,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "avalible": 55,
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 5
+    },
+    {
+      "id": 7,
+      "title": "Chromebook Tab 10",
+      "image": "/img/product-2.jpg",
+      "avalible": 5,
+      "category": "Acer",
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 2
+    },
+    {
+      "id": 8,
+      "title": "Chromebook Tab 10",
+      "avalible": 0,
+      "image": "/img/product-2.jpg",
+      "category": "Acer",
+      "price": 25000,
+      "shareprice": "20000",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique tristique sem, ut accumsan mi consectetur ut. In quis viverra leo. Nunc scelerisque est quis pretium ultricies. Ut sem quam, bibendum vel faucibus sed, sodales vel risus. Suspendisse suscipit pretium massa, vitae iaculis sapien tristique at. Proin commodo nisi quis rhoncus vulputate. Suspendisse potenti. Suspendisse posuere elementum convallis. Sed luctus ultrices diam. Fusce sagittis laoreet eleifend. Aenean id nunc nec erat pulvinar feugiat eu non erat. Cras nec accumsan purus, sit amet dignissim purus. Duis blandit nibh eget ligula facilisis, sed varius tortor gravida. Vestibulum porta mauris in eleifend sodales. Aliquam nec auctor augue. Curabitur volutpat massa nec gravida vehicula. Donec vel laoreet nibh. Pellentesque et luctus magna. Duis gravida, nisl a imperdiet gravida, ipsum eros blandit ipsum, in scelerisque quam ipsum et diam.",
+      "stars": 3
+    }
+  ],
+  "cart": [],
+  "subscribe": [
+    {
+      "name": "dfasf@dfdaf",
+      "id": 1
+    },
+    {
+      "name": "adsfa@sdfsdafdf",
+      "id": 2
+    },
+    {
+      "name": "adf@df",
+      "id": 3
+    }
+  ]
+}
